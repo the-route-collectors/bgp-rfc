@@ -24,6 +24,8 @@ RFC 4271 A Border Gateway Protocol 4 (BGP-4) [Errata](http://www.rfc-editor.org/
 
 RFC 4456 BGP Route Reflection [Errata](http://www.rfc-editor.org/errata/rfc4456), Obsoletes [RFC 2796](http://www.rfc-editor.org/info/rfc2796), [RFC 1966](http://www.rfc-editor.org/info/rfc1966), Updated by [RFC 7606](http://www.rfc-editor.org/info/rfc7606)
 
+--RFC 4724 Graceful Restart Mechanism for BGP--
+
 RFC 4760 Multiprotocol Extensions for BGP-4
 
 [RFC 5492](https://www.rfc-editor.org/rfc/rfc5492.txt) Capabilities Advertisement with BGP-4
@@ -36,7 +38,7 @@ RFC 6608 Subcodes for BGP Finite State Machine Error
 
 RFC 6793 BGP Support for Four-Octet Autonomous System (AS) Number Space
 
-RFC [7705 ](https://tools.ietf.org/html/rfc7705) Autonomous System Migration Mechanisms and Their Effects on the BGP AS_PATH Attribute
+RFC [7705](https://tools.ietf.org/html/rfc7705) Autonomous System Migration Mechanisms and Their Effects on the BGP AS_PATH Attribute
 
 RFC 7606 Revised Error Handling for BGP UPDATE Messages
 
@@ -53,6 +55,8 @@ RFC [8050](https://datatracker.ietf.org/doc/html/rfc8050)  Multi-Threaded Routin
 RFC [8212](https://tools.ietf.org/html/rfc8212) Default External BGP (EBGP) Route Propagation Behavior without Policies
 
 RFC 8326 Graceful BGP Session Shutdown
+
+RFC [8538](https://tools.ietf.org/html/rfc8538) Notification Message Support for BGP Graceful Restart Updates 4724
 
 RFC 8654 Extended Message Support for BGP
 
