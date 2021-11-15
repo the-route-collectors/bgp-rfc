@@ -48,7 +48,7 @@ RFC 7911 Advertisement of Multiple Paths in BGP
 
 RFC 7854 BGP Monitoring Protocol (BMP)
 
-RFC 8050  Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format with BGP Additional Path Extensions
+RFC [8050](https://datatracker.ietf.org/doc/html/rfc8050)  Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format with BGP Additional Path Extensions
 
 RFC [8212](https://tools.ietf.org/html/rfc8212) Default External BGP (EBGP) Route Propagation Behavior without Policies
 
