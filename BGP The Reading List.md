@@ -16,7 +16,9 @@ RFC 1105 (Experimental) Border Gateway Protocol (BGP)
 
 ~~RFC 2796 BGP Route Reflection - An Alternative to Full Mesh IBGP~~
 
-RFC2622 Routing Policy Specification Language (RPSL)
+RFC 2545 Use of BGP-4 Multiprotocol Extensions for IPv6 Inter-Domain Routing
+
+RFC 2622 Routing Policy Specification Language (RPSL)
 
 RFC 2918 Route Refresh Capability for BGP-4
 
@@ -34,6 +36,8 @@ RFC 4724 Graceful Restart Mechanism for BGP Updated by RFC [8538](https://tools.
 
 **RFC 4760 Multiprotocol Extensions for BGP-4**
 
+~~RFC 4893 BGP Support for Four-octet AS Number Space~~ Obsoleted by 6793
+
 RFC 5004 Avoid BGP Best Path Transitions from One External to Another
 
 RFC 5065 Autonomous System Confederations for BGP [Errata](http://www.rfc-editor.org/errata/rfc5065), Obsoletes [RFC 3065](http://www.rfc-editor.org/info/rfc3065)
@@ -42,15 +46,23 @@ RFC 5291 Outbound Route Filtering Capability for BGP-4
 
 **[RFC 5492](https://www.rfc-editor.org/rfc/rfc5492.txt) Capabilities Advertisement with BGP-4**
 
+RFC 5543 BGP Traffic Engineering Attribute
+
+RFC 5701 IPv6 Address Specific BGP Extended Community Attribute
+
 **RFC 6286 Autonomous-System-Wide Unique BGP Identifier for BGP-4**
 
 **RFC 6608 Subcodes for BGP Finite State Machine Error** Updates 4271
 
 **RFC 6793 BGP Support for Four-Octet Autonomous System (AS) Number Space**
 
+RFC 7313 Enhanced Route Refresh Capability for BGP-4 Updates 2918
+
 **RFC [7705](https://tools.ietf.org/html/rfc7705) Autonomous System Migration Mechanisms and Their Effects on the BGP AS_PATH Attribute**
 
 **RFC 7606 Revised Error Handling for BGP UPDATE Messages** Updates 1997, 4271, 4360, 4456, 4760, 5543, 5701, 6368
+
+RFC 7606 Revised Error Handling for BGP UPDATE Messages Updates 4271,4360,4760,5543,5701,6368
 
 RFC [7607](https://tools.ietf.org/html/rfc7607) Codification of AS 0 Processing
 
