@@ -23,3 +23,6 @@ https://datatracker.ietf.org/doc/html/draft-chen-idr-bgp-over-quic-00
 
 https://datatracker.ietf.org/doc/html/draft-retana-idr-bgp-quic-stream
 
+#### YANG Models for BGP
+
+https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-model-12
