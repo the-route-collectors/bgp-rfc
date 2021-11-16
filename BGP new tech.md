@@ -26,3 +26,20 @@ https://datatracker.ietf.org/doc/html/draft-retana-idr-bgp-quic-stream
 #### YANG Models for BGP
 
 https://datatracker.ietf.org/doc/html/draft-ietf-idr-bgp-model-12
+
+```
+This module contains general data definitions for use in BGP
+policy. It can be imported by modules that make use of BGP
+attributes
+```
+
+http://www.netconfcentral.org/modulereport/openconfig-bgp-types
+
+```
+This module is part of a YANG model for BGP protocol
+configuration, focusing on operational data (i.e., state
+variables) related to BGP operations
+```
+
+http://www.netconfcentral.org/modulereport/ietf-bgp-operational
+
