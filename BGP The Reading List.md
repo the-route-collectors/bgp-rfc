@@ -16,6 +16,10 @@ RFC 1105 (Experimental) Border Gateway Protocol (BGP)
 
 ~~RFC 2796 BGP Route Reflection - An Alternative to Full Mesh IBGP~~
 
+~~RFC 2385 Protection of BGP Sessions via the TCP MD5 Signature Option~~
+
+RFC 2439 BGP Route Flap Damping
+
 RFC 2545 Use of BGP-4 Multiprotocol Extensions for IPv6 Inter-Domain Routing
 
 RFC 2622 Routing Policy Specification Language (RPSL)
@@ -47,6 +51,8 @@ RFC 5291 Outbound Route Filtering Capability for BGP-4
 **[RFC 5492](https://www.rfc-editor.org/rfc/rfc5492.txt) Capabilities Advertisement with BGP-4**
 
 RFC 5543 BGP Traffic Engineering Attribute
+
+~~RFC 5594 Advertising IPv4 Network Layer Reachability Information with an IPv6 Next Hop~~
 
 RFC 5701 IPv6 Address Specific BGP Extended Community Attribute
 
@@ -81,6 +87,8 @@ RFC 8326 Graceful BGP Session Shutdown
 RFC [8538](https://tools.ietf.org/html/rfc8538) Notification Message Support for BGP Graceful Restart
 
 **RFC 8654 Extended Message Support for BGP**
+
+RFC 8950 Advertising IPv4 Network Layer Reachability Information (NLRI) with an IPv6 Next Hop
 
 RFC 9003 Extended BGP Administrative Shutdown Communication, Obsoletes 8203
 
