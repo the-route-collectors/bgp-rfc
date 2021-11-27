@@ -262,6 +262,8 @@ RFC 4360 BGP Extended Communities Attribute
 
 *RFC 4384 BGP Communities for Data Collection BCP 114*
 
+RFC 5701 IPv6 Address Specific BGP Extended Community Attribute
+
 RFC 7153 IANA Registries for BGP Extended Communities Updates 4360, 5701
 
 RFC 8642 Policy Behavior for Well-Known BGP Communities
