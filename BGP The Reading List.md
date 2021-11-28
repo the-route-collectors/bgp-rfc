@@ -8,7 +8,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 975](https://www.rfc-editor.org/info/rfc975) Autonomous Confederations
 
-~~[RFC 1267](https://www.rfc-editor.org/info/rfc1267) A Border Gateway Protocol 3 (BGP-3) *obsoletes 1105, 1163*~~
+~~[RFC 1267](https://www.rfc-editor.org/info/rfc1267) A Border Gateway Protocol 3 (BGP-3) *obsoletes 1163*~~
 
 ~~[RFC 1364](https://www.rfc-editor.org/info/rfc1364) BGP OSPF Interaction~~
 
@@ -50,19 +50,19 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 ~~[RFC 3107](https://www.rfc-editor.org/info/rfc3107) Carrying Label Information in BGP-4~~
 
-~~[RFC 3392](https://www.rfc-editor.org/info/rfc3392) Capabilities Advertisement with BGP-4 obsoletes 2842~~
+~~[RFC 3392](https://www.rfc-editor.org/info/rfc3392) Capabilities Advertisement with BGP-4 *obsoletes 2842*~~
 
 **[RFC 4271](https://www.rfc-editor.org/info/rfc4271) A Border Gateway Protocol 4 (BGP-4)** [Errata](http://www.rfc-editor.org/errata/rfc4271), *obsoletes [1771](http://www.rfc-editor.org/info/rfc1771), updated by [6286](http://www.rfc-editor.org/info/rfc6286), [RFC 6608](http://www.rfc-editor.org/info/rfc6608), [6793](http://www.rfc-editor.org/info/rfc6793), [7606](http://www.rfc-editor.org/info/rfc7606), [7607](http://www.rfc-editor.org/info/rfc7607), [7705](http://www.rfc-editor.org/info/rfc7705), [8212](http://www.rfc-editor.org/info/rfc8212), [8654](http://www.rfc-editor.org/info/rfc8654), [9072](http://www.rfc-editor.org/info/rfc9072)*
 
 [RFC 4273](https://www.rfc-editor.org/info/rfc4273) Definitions of Managed Objects for BGP-4
 
-[RFC 4456](https://www.rfc-editor.org/info/rfc4456) BGP Route Reflection [Errata](http://www.rfc-editor.org/errata/rfc4456), Obsoletes [2796](http://www.rfc-editor.org/info/rfc2796), [1966](http://www.rfc-editor.org/info/rfc1966)
+[RFC 4456](https://www.rfc-editor.org/info/rfc4456) BGP Route Reflection *[Errata](http://www.rfc-editor.org/errata/rfc4456), obsoletes [2796](http://www.rfc-editor.org/info/rfc2796), [1966](http://www.rfc-editor.org/info/rfc1966)*
 
 ~~[RFC 4486](https://www.rfc-editor.org/info/rfc4486) Subcodes for BGP Cease Notification Message~~
 
 [RFC 4724](https://www.rfc-editor.org/info/rfc4724) Graceful Restart Mechanism for BGP Updated by RFC [8538](https://tools.ietf.org/html/rfc8538) 
 
-**RFC [4760](https://www.rfc-editor.org/info/rfc4760) Multiprotocol Extensions for BGP-4**
+**[RFC 4760](https://www.rfc-editor.org/info/rfc4760) Multiprotocol Extensions for BGP-4**
 
 [RFC 4781](https://www.rfc-editor.org/info/rfc4781) Graceful Restart Mechanism for BGP with MPLS
 
@@ -72,7 +72,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 5004](https://www.rfc-editor.org/info/rfc5004) Avoid BGP Best Path Transitions from One External to Another
 
-[RFC 5065](https://www.rfc-editor.org/info/rfc5065) Autonomous System Confederations for BGP [Errata](http://www.rfc-editor.org/errata/rfc5065), Obsoletes [3065](http://www.rfc-editor.org/info/rfc3065)
+[RFC 5065](https://www.rfc-editor.org/info/rfc5065) Autonomous System Confederations for BGP *[Errata](http://www.rfc-editor.org/errata/rfc5065), obsoletes [3065](http://www.rfc-editor.org/info/rfc3065)*
 
 [RFC 5195](https://www.rfc-editor.org/info/rfc5195) BGP-Based Auto-Discovery for Layer-1 VPNs
 
@@ -156,7 +156,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 ## Informational/historic RFCs
 
-~~[RFC 1163](https://www.rfc-editor.org/info/rfc1163) (Historic) A Border Gateway Protocol (BGP) obsoletes 1105~~
+~~[RFC 1163](https://www.rfc-editor.org/info/rfc1163) (Historic) A Border Gateway Protocol (BGP) *obsoletes 1105*~~
 
 [RFC 1265](https://www.rfc-editor.org/info/rfc1265) (Informational) BGP Protocol Analysis
 
@@ -306,7 +306,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 ~~[RFC 2547](https://www.rfc-editor.org/info/rfc2547) BGP/MPLS VPNs~~
 
-[RFC 4364](https://www.rfc-editor.org/info/rfc4364) BGP/MPLS IP Virtual Private Networks (VPNs) Obsoletes 2547
+[RFC 4364](https://www.rfc-editor.org/info/rfc4364) BGP/MPLS IP Virtual Private Networks (VPNs) *obsoletes 2547*
 
 [RFC 4382](https://www.rfc-editor.org/info/rfc4382) MPLS/BGP Layer 3 Virtual Private Network (VPN) Management Information Base
 
