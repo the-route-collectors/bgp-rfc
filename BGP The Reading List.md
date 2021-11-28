@@ -274,71 +274,71 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 8195](https://www.rfc-editor.org/info/rfc8195)  (Informational) Use of BGP Large Communities
 
-[RFC 8642]](https://www.rfc-editor.org/info/rfc8642) Policy Behavior for Well-Known BGP Communities
+[RFC 8642](https://www.rfc-editor.org/info/rfc8642) Policy Behavior for Well-Known BGP Communities
 
 
 
 ## MRT
 
-[RFC 6396]](https://www.rfc-editor.org/info/rfc8396) Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format
+[RFC 6396](https://www.rfc-editor.org/info/rfc8396) Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format
 
-[RFC 6397]](https://www.rfc-editor.org/info/rfc6397) Multi-Threaded Routing Toolkit (MRT) Border Gateway Protocol (BGP) Routing Information Export Format with Geo-Location Extensions
+[RFC 6397](https://www.rfc-editor.org/info/rfc6397) Multi-Threaded Routing Toolkit (MRT) Border Gateway Protocol (BGP) Routing Information Export Format with Geo-Location Extensions
 
-[RFC 8050]](https://www.rfc-editor.org/info/rfc8050)  Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format with BGP Additional Path Extensions
+[RFC 8050](https://www.rfc-editor.org/info/rfc8050)  Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format with BGP Additional Path Extensions
 
 
 
 ## BMP
 
-[RFC 7854]](https://www.rfc-editor.org/info/rfc7854) BGP Monitoring Protocol (BMP)
+[RFC 7854](https://www.rfc-editor.org/info/rfc7854) BGP Monitoring Protocol (BMP)
 
-[RFC 8671]](https://www.rfc-editor.org/info/rfc8671) Support for Adj-RIB-Out in the BGP Monitoring Protocol (BMP)
+[RFC 8671](https://www.rfc-editor.org/info/rfc8671) Support for Adj-RIB-Out in the BGP Monitoring Protocol (BMP)
 
 
 
 ## FlowSpec
 
-[RFC 8955]](https://www.rfc-editor.org/info/rfc8955) Dissemination of Flow Specification Rules
+[RFC 8955](https://www.rfc-editor.org/info/rfc8955) Dissemination of Flow Specification Rules
 
-[RFC 8956]](https://www.rfc-editor.org/info/rfc8956) Dissemination of Flow Specification Rules for IPv6
+[RFC 8956](https://www.rfc-editor.org/info/rfc8956) Dissemination of Flow Specification Rules for IPv6
 
-[RFC 9117]](https://www.rfc-editor.org/info/rfc9117) Revised Validation Procedure for BGP Flow Specifications Updates 8955
+[RFC 9117](https://www.rfc-editor.org/info/rfc9117) Revised Validation Procedure for BGP Flow Specifications Updates 8955
 
 
 
 ## MPLS/VPN tunnels
 
-~~[RFC 2547]](https://www.rfc-editor.org/info/rfc2547) BGP/MPLS VPNs~~
+~~[RFC 2547](https://www.rfc-editor.org/info/rfc2547) BGP/MPLS VPNs~~
 
-[RFC 4364]](https://www.rfc-editor.org/info/rfc4364) BGP/MPLS IP Virtual Private Networks (VPNs) Obsoletes 2547
+[RFC 4364](https://www.rfc-editor.org/info/rfc4364) BGP/MPLS IP Virtual Private Networks (VPNs) Obsoletes 2547
 
-[RFC 4382]](https://www.rfc-editor.org/info/rfc4382) MPLS/BGP Layer 3 Virtual Private Network (VPN) Management Information Base
+[RFC 4382](https://www.rfc-editor.org/info/rfc4382) MPLS/BGP Layer 3 Virtual Private Network (VPN) Management Information Base
 
-[RFC 4761]](https://www.rfc-editor.org/info/rfc4761) Virtual Private LAN Service (VPLS) Using BGP for Auto-Discovery and Signaling
+[RFC 4761](https://www.rfc-editor.org/info/rfc4761) Virtual Private LAN Service (VPLS) Using BGP for Auto-Discovery and Signaling
 
-[RFC 5512]](https://www.rfc-editor.org/info/rfc5512) The BGP Encapsulation Subsequent Address Family Identifier (SAFI) and the BGP Tunnel Encapsulation Attribute
+[RFC 5512](https://www.rfc-editor.org/info/rfc5512) The BGP Encapsulation Subsequent Address Family Identifier (SAFI) and the BGP Tunnel Encapsulation Attribute
 
-[RFC 6368]](https://www.rfc-editor.org/info/rfc6368) Internal BGP as the Provider/Customer Edge Protocol for BGP/MPLS IP Virtual Private Networks (VPNs)
+[RFC 6368](https://www.rfc-editor.org/info/rfc6368) Internal BGP as the Provider/Customer Edge Protocol for BGP/MPLS IP Virtual Private Networks (VPNs)
 
-[RFC 6513]](https://www.rfc-editor.org/info/rfc6513) Multicast in MPLS/BGP IP VPNs
+[RFC 6513](https://www.rfc-editor.org/info/rfc6513) Multicast in MPLS/BGP IP VPNs
 
-[RFC 6514]](https://www.rfc-editor.org/info/rfc6514) BGP Encodings and Procedures for Multicast in MPLS/BGP IP VPNs
+[RFC 6514](https://www.rfc-editor.org/info/rfc6514) BGP Encodings and Procedures for Multicast in MPLS/BGP IP VPNs
 
-[RFC 6515]](https://www.rfc-editor.org/info/rfc6515) IPv4 and IPv6 Infrastructure Addresses in BGP Updates for Multicast VPN
+[RFC 6515](https://www.rfc-editor.org/info/rfc6515) IPv4 and IPv6 Infrastructure Addresses in BGP Updates for Multicast VPN
 
-[RFC 6517]](https://www.rfc-editor.org/info/rfc6517) Mandatory Features in a Layer 3 Multicast BGP/MPLS VPN Solution
+[RFC 6517](https://www.rfc-editor.org/info/rfc6517) Mandatory Features in a Layer 3 Multicast BGP/MPLS VPN Solution
 
-[RFC 7024]](https://www.rfc-editor.org/info/rfc7024) Virtual Hub-and-Spoke in BGP/MPLS VPNs
+[RFC 7024](https://www.rfc-editor.org/info/rfc7024) Virtual Hub-and-Spoke in BGP/MPLS VPNs
 
-[RFC 7432]](https://www.rfc-editor.org/info/rfc7432) BGP MPLS-Based Ethernet VPN
+[RFC 7432](https://www.rfc-editor.org/info/rfc7432) BGP MPLS-Based Ethernet VPN
 
-[RFC 7441]](https://www.rfc-editor.org/info/rfc7441) Encoding Multipoint LDP (mLDP) Forwarding Equivalence Classes (FECs) in the NLRI of BGP MCAST-VPN Routes Updates 6514
+[RFC 7441](https://www.rfc-editor.org/info/rfc7441) Encoding Multipoint LDP (mLDP) Forwarding Equivalence Classes (FECs) in the NLRI of BGP MCAST-VPN Routes Updates 6514
 
-[RFC 7453]](https://www.rfc-editor.org/info/rfc7453) MPLS Transport Profile (MPLS-TP) Traffic Engineering (TE) Management Information Base (MIB)
+[RFC 7453](https://www.rfc-editor.org/info/rfc7453) MPLS Transport Profile (MPLS-TP) Traffic Engineering (TE) Management Information Base (MIB)
 
-[RFC 7716]](https://www.rfc-editor.org/info/rfc7716) Global Table Multicast with BGP Multicast VPN (BGP-MVPN) Procedures
+[RFC 7716](https://www.rfc-editor.org/info/rfc7716) Global Table Multicast with BGP Multicast VPN (BGP-MVPN) Procedures
 
-[RFC 8277]](https://www.rfc-editor.org/info/rfc8277) Using BGP to Bind MPLS Labels to Address Prefixes
+[RFC 8277](https://www.rfc-editor.org/info/rfc8277) Using BGP to Bind MPLS Labels to Address Prefixes
 
 
 
