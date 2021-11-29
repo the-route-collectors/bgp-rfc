@@ -176,8 +176,6 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 3765](https://www.rfc-editor.org/info/rfc3765) (Informational) NOPEER Community for Border Gateway Protocol (BGP) Route Scope Control
 
-[RFC 3882](https://www.rfc-editor.org/info/rfc3882) (Informational) Configuring BGP to Block Denial-of-Service Attacks
-
 [RFC 4098](https://www.rfc-editor.org/info/rfc4098) (Informational) Terminology for Benchmarking BGP Device Convergence in the Control Plane
 
 [RFC 4264](https://www.rfc-editor.org/info/rfc4264) (Informational) BGP Wedgies
@@ -291,6 +289,11 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 [RFC 8671](https://www.rfc-editor.org/info/rfc8671) Support for Adj-RIB-Out in the BGP Monitoring Protocol (BMP)
 
 
+## Blackholing
+
+[RFC 3882](https://www.rfc-editor.org/info/rfc3882) (Informational) Configuring BGP to Block Denial-of-Service Attacks
+
+[RFC 5635](https://www.rfc-editor.org/info/rfc5635) Remote Triggered Black Hole Filtering with Unicast Reverse Path Forwarding (uRPF)
 
 ## FlowSpec
 

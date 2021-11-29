@@ -10,6 +10,7 @@
 
 [Well-Known Communities](https://www.iana.org/assignments/bgp-well-known-communities/bgp-well-known-communities.xhtml)
 
+[Extended Communities](https://www.iana.org/assignments/bgp-extended-communities/bgp-extended-communities.xhtml)
 
 
 # MPLS/VPN tunnels
