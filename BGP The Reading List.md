@@ -288,12 +288,17 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 8671](https://www.rfc-editor.org/info/rfc8671) Support for Adj-RIB-Out in the BGP Monitoring Protocol (BMP)
 
+[RFC 9069](https://www.rfc-editor.org/info/rfc9069) Support for Local RIB in the BGP Monitoring Protocol (BMP)
+
+
 
 ## Blackholing
 
 [RFC 3882](https://www.rfc-editor.org/info/rfc3882) (Informational) Configuring BGP to Block Denial-of-Service Attacks
 
 [RFC 5635](https://www.rfc-editor.org/info/rfc5635) Remote Triggered Black Hole Filtering with Unicast Reverse Path Forwarding (uRPF)
+
+
 
 ## FlowSpec
 
