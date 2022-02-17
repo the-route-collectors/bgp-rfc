@@ -216,6 +216,8 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 7814](https://www.rfc-editor.org/info/rfc7814) (Informational) Virtual Subnet: A BGP/MPLS IP VPN-Based Subnet Extension Solution
 
+[RFC 7908](https://www.rfc-editor.org/info/rfc7908) (Informational) Problem Definition and Classification of BGP Route Leaks
+
 [RFC 7938](https://www.rfc-editor.org/info/rfc7938) (Informational) Use of BGP for Routing in Large-Scale Data Centers
 
 [RFC 7948](https://www.rfc-editor.org/info/rfc7948) (Informational) Internet Exchange BGP Route Server Operations
