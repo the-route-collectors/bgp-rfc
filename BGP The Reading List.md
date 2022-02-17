@@ -367,4 +367,6 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 ## Other Related
 
 ~~[RFC 1519](https://www.rfc-editor.org/info/rfc1519) Classless Inter-Domain Routing (CIDR): an Address Assignment and Aggregation Strategy~~
+
 [RFC 4632](https://www.rfc-editor.org/info/rfc4632) Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan
+
