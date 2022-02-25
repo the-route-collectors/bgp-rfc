@@ -116,6 +116,8 @@ RFC 5292](https://www.rfc-editor.org/info/rfc5292) Address-Prefix-Based Outbound
 
 [RFC 7447](https://www.rfc-editor.org/info/rfc7447) Deprecation of BGP Entropy Label Capability Attribute *updates 6790*
 
+[RFC 7543](https://www.rfc-editor.org/rfc/rfc7543) Covering Prefixes Outbound Route Filter for BGP-4
+
 **[RFC 7705](https://www.rfc-editor.org/info/rfc7705) Autonomous System Migration Mechanisms and Their Effects on the BGP AS_PATH Attribute**
 
 **[RFC 7606](https://www.rfc-editor.org/info/rfc7606) Revised Error Handling for BGP UPDATE Messages** *updates 1997, 4271, 4360, 4456, 4760, 5543, 5701, 6368*
