@@ -78,7 +78,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 5291](https://www.rfc-editor.org/info/rfc5291) Outbound Route Filtering Capability for BGP-4
 
-RFC 5292](https://www.rfc-editor.org/info/rfc5292) Address-Prefix-Based Outbound Route Filter for BGP-4
+[RFC 5292](https://www.rfc-editor.org/info/rfc5292) Address-Prefix-Based Outbound Route Filter for BGP-4
 
 **[RFC 5492](https://www.rfc-editor.org/rfc/rfc5492.txt) Capabilities Advertisement with BGP-4**
 
