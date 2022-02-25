@@ -1,10 +1,12 @@
 # Core BGP
 
-[BGP parameters](https://www.iana.org/assignments/bgp-parameters/bgp-parameters.xml#bgp-l2-tlv-types-registry)
+[BGP parameters](https://www.iana.org/assignments/bgp-parameters/bgp-parameters.xml)
+
+Most of the assignments for Core BGP live here in one huge page.
+
+[BGP Capability Codes](https://www.iana.org/assignments/capability-codes/capability-codes.xhtml)
 
 [AFI (Address Family Identifier)](https://www.iana.org/assignments/address-family-numbers/address-family-numbers.xhtml)
-
-
 
 # Communities
 
