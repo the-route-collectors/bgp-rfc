@@ -38,8 +38,6 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 2545](https://www.rfc-editor.org/info/rfc2545) Use of BGP-4 Multiprotocol Extensions for IPv6 Inter-Domain Routing
 
-[RFC 2622](https://www.rfc-editor.org/info/rfc2622) Routing Policy Specification Language (RPSL)
-
 ~~[RFC 2796](https://www.rfc-editor.org/info/rfc2796) BGP Route Reflection - An Alternative to Full Mesh IBGP~~
 
 ~~[RFC 2842](https://www.rfc-editor.org/info/rfc2842) Capabilities Advertisement with BGP-4~~
@@ -371,6 +369,26 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 ~~[RFC 8208](https://www.rfc-editor.org/info/rfc8208) BGPsec Algorithms, Key Formats, and Signature Formats *updates 7935*~~
 
 [RFC 8209](https://www.rfc-editor.org/info/rfc8209) A Profile for BGPsec Router Certificates, Certificate Revocation Lists, and Certification Requests *updates 6487*
+
+
+
+## Routing Policy Specification Language (RPSL)
+
+[RFC 1786](https://www.rfc-editor.org/rfc/rfc1786.txt) Representation of IP Routing Policies in a Routing Registry (ripe-81++)
+
+[RFC 2622](https://www.rfc-editor.org/info/rfc2622) Routing Policy Specification Language (RPSL)
+
+[RFC 2650](https://www.rfc-editor.org/info/rfc2650) (Informational) Using RPSL in Practice
+
+[RFC 2725](https://www.rfc-editor.org/info/rfc2725) Routing Policy System Security
+
+[RFC 2726](https://www.rfc-editor.org/info/rfc2726) PGP Authentication for RIPE Database Updates
+
+[RFC 2769](https://www.rfc-editor.org/info/rfc2769) Routing Policy System Replication
+
+[RFC 4012](https://www.rfc-editor.org/info/rfc4012) Routing Policy Specification Language next generation (RPSLng) 
+
+
 
 ## Other Related
 
