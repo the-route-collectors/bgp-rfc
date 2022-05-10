@@ -154,6 +154,8 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 9067](https://www.rfc-editor.org/info/rfc9067) A YANG Data Model for Routing Policy
 
+[RFC 9234](https://www.rfc-editor.org/info/rfc9234) Route Leak Prevention and Detection Using Roles in UPDATE and OPEN Messages
+
 
 
 ## Informational/historic RFCs
