@@ -308,13 +308,19 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 7999](https://www.rfc-editor.org/rfc/rfc7999.html) (Informational) BLACKHOLE Community
 
+
+
 ## FlowSpec
+
+~~[RFC 5575](https://www.rfc-editor.org/info/rfc5575) Dissemination of Flow Specification Rules~~
+
+[RFC 7674](https://www.rfc-editor.org/info/rfc7674) Clarification of the Flowspec Redirect Extended Community
 
 [RFC 8955](https://www.rfc-editor.org/info/rfc8955) Dissemination of Flow Specification Rules
 
 [RFC 8956](https://www.rfc-editor.org/info/rfc8956) Dissemination of Flow Specification Rules for IPv6
 
-[RFC 9117](https://www.rfc-editor.org/info/rfc9117) Revised Validation Procedure for BGP Flow Specifications Updates 8955
+[RFC 9117](https://www.rfc-editor.org/info/rfc9117) Revised Validation Procedure for BGP Flow Specifications
 
 
 
