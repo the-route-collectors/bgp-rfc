@@ -314,7 +314,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 ~~[RFC 5575](https://www.rfc-editor.org/info/rfc5575) Dissemination of Flow Specification Rules~~
 
-[RFC 7674](https://www.rfc-editor.org/info/rfc7674) Clarification of the Flowspec Redirect Extended Community
+~~[RFC 7674](https://www.rfc-editor.org/info/rfc7674) Clarification of the Flowspec Redirect Extended Community~~
 
 [RFC 8955](https://www.rfc-editor.org/info/rfc8955) Dissemination of Flow Specification Rules
 
