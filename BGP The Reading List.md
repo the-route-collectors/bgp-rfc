@@ -144,6 +144,8 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 8326](https://www.rfc-editor.org/info/rfc8326) Graceful BGP Session Shutdown
 
+[RFC 8538](https://www.rfc-editor.org/info/rfc8538) Notification Message Support for BGP Graceful Restart
+
 **[RFC 8654](https://www.rfc-editor.org/info/rfc8654) Extended Message Support for BGP**
 
 [RFC 8950](https://www.rfc-editor.org/info/rfc8950) Advertising IPv4 Network Layer Reachability Information (NLRI) with an IPv6 Next Hop
@@ -363,8 +365,6 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 
 ## BGPSec
-
-[RFC 8538](https://www.rfc-editor.org/info/rfc8538) Notification Message Support for BGP Graceful Restart
 
 [RFC 8608](https://www.rfc-editor.org/info/rfc8608) BGPsec Algorithms, Key Formats, and Signature Formats Updates 8208
 
