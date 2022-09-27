@@ -366,8 +366,6 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 ## BGPSec
 
-[RFC 8608](https://www.rfc-editor.org/info/rfc8608) BGPsec Algorithms, Key Formats, and Signature Formats Updates 8208
-
 [RFC 8205](https://www.rfc-editor.org/info/rfc8205) BGPsec Protocol Specification
 
 [RFC 8206](https://www.rfc-editor.org/info/rfc8206) BGPsec Considerations for Autonomous System (AS) Migration
@@ -378,6 +376,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 8209](https://www.rfc-editor.org/info/rfc8209) A Profile for BGPsec Router Certificates, Certificate Revocation Lists, and Certification Requests *updates 6487*
 
+[RFC 8608](https://www.rfc-editor.org/info/rfc8608) BGPsec Algorithms, Key Formats, and Signature Formats *updates 8208*
 
 
 ## Routing Policy Specification Language (RPSL)
