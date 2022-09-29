@@ -175,7 +175,7 @@ are defined by the wide community.
 | RFC                                                                                | type                 | path attribute                            | size       | structure        | flags                      | canonical repr     | reserved values                              |
 | ---                                                                                | ------               | --:                                       | --:        | --:              | --                         | --                 | --                                           |
 | [RFC1997](https://datatracker.ietf.org/doc/html/rfc1997)                           | original             | 8                                         | 4          | value            | none                       | 1234:666           | 0:xxx , 65535:xxx                            |
-| [RFC4360](https://datatracker.ietf.org/doc/html/rfc4360)                           | extended communities | 16                                        | 8          | type+value       | auth+transitivity          | ROUTE-TARGET-AS4:65536:1 |                                              |
+| [RFC4360](https://datatracker.ietf.org/doc/html/rfc4360)                           | extended communities | 16                                        | 8          | type+value       | auth+transitivity          | ROUTE-TARGET-AS4:65536:1 *** |                                              |
 | [RFC8092](https://www.rfc-editor.org/rfc/rfc8092.html)                             | large communities    | 32                                        | 12         | value            | none                       | 64496:4294967295:2 | 0:xxx:yyy, 65535:xxx:yyy, 4294967295:xxx:yyy |
 | [draft](https://datatracker.ietf.org/doc/html/draft-ietf-idr-wide-bgp-communities) | wide communities*    | 34 (Community Container, temp assignment) | 12..~65k** | value+optionals* | transitivity+confederation | too complex?       |                                              |
 
@@ -188,6 +188,10 @@ structure would thus include the Common header, but that does not carry any
 **: The draft does not specify any upper limit in terms of size, but the length
 field in the Common header of the Container is 16 bits.
 
+***: This is an Arista example, junOS uses a more abstracted format `target:65536:1`,
+but in general it sticks to `some variation of subtype:globalAdmin:localAdmin`. Also
+it seems that the only IANA assigned subtypes actually used in inter-domain routing
+are `route-target` and `route-origin`.
 
 
 # In practice
