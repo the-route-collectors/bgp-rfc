@@ -233,7 +233,9 @@ signalling needs, there is no reason to use Large Communities.
 
 ## Extended Communities?
 
-**TODO** where are these most commonly used in the wild? 
+As mentioned above the only sub-types from the IANA assignements, that seem to
+be used in inter-domain routing are the sub-types `route-target` and 
+`route-origin` as defined in RFC4360 and RFC7501.
 
 ## Containers / Wide Communities?
 
