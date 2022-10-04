@@ -36,8 +36,8 @@ specified in an IANA registry.
 The structure of the value depends on the type. The RFC defines several,
 including:
 
-  * the 'Two-Octet AS Specific' type, where the six first two octets of the
-value represent an AS, and the last four octets can represent anything;
+  * the 'Two-Octet AS Specific' type, where the first two octets of the value
+    represent an AS, and the last four octets can represent anything;
   * the 'IPv4 Address Specific' type, where the first four octets represent an
     IPv4 address, and the last two octets represent any value.
 
