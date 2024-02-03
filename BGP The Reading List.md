@@ -404,3 +404,6 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 [RFC 5396](https://www.rfc-editor.org/info/rfc5396) Textual Representation of Autonomous System (AS) Numbers
 
 [RFC 5398](https://www.rfc-editor.org/info/rfc5398) Autonomous System (AS) Number Reservation for Documentation Use
+
+[RFC 9522](https://www.rfc-editor.org/info/rfc9522) Overview and Principles of Internet Traffic Engineering
+
