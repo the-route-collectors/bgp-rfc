@@ -116,8 +116,6 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 [RFC 7543](https://www.rfc-editor.org/rfc/rfc7543) Covering Prefixes Outbound Route Filter for BGP-4
 
-**[RFC 7705](https://www.rfc-editor.org/info/rfc7705) Autonomous System Migration Mechanisms and Their Effects on the BGP AS_PATH Attribute**
-
 **[RFC 7606](https://www.rfc-editor.org/info/rfc7606) Revised Error Handling for BGP UPDATE Messages** *updates 1997, 4271, 4360, 4456, 4760, 5543, 5701, 6368*
 
 [RFC 7607](https://www.rfc-editor.org/info/rfc7607) Codification of AS 0 Processing
