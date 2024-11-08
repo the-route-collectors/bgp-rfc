@@ -280,7 +280,7 @@ The core of the core of BGP RFCs is RFC 4271. That RFC and its direct lineage is
 
 ## MRT
 
-[RFC 6396](https://www.rfc-editor.org/info/rfc8396) Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format
+[RFC 6396](https://www.rfc-editor.org/info/rfc6396) Multi-Threaded Routing Toolkit (MRT) Routing Information Export Format
 
 [RFC 6397](https://www.rfc-editor.org/info/rfc6397) Multi-Threaded Routing Toolkit (MRT) Border Gateway Protocol (BGP) Routing Information Export Format with Geo-Location Extensions
 
